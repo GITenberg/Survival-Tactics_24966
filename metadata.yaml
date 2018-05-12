@@ -1,0 +1,37 @@
+_repo: Survival-Tactics_24966
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Novick, Irving H.
+    alias: Novick
+    birthdate: 1916
+    deathdate: 2004
+    gutenberg_agent_id: '26840'
+    url: http://www.gutenberg.org/2009/agents/26840
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sevcik, Al
+    gutenberg_agent_id: '26818'
+    url: http://www.gutenberg.org/2009/agents/26818
+description: The robots were built to serve Man; to do his work, see to his comforts,
+  make smooth his way. Then the robots figured out an additional service, putting
+  Man out of his misery.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2008-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24966'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction, American'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Robots -- Fiction'
+title: Survival Tactics
+url: http://www.gutenberg.org/ebooks/24966
